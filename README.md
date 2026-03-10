@@ -1,2 +1,71 @@
-# Rental-Manager
-O Rental Manager é uma solução mobile robusta desenvolvida para simplificar a gestão financeira de locadores. O projeto foca na organização de inquilinos e emissão rápida de recibos com funcionamento 100% offline.
+Rental Manager (Gestão de Aluguéis e Recibos) 🏠📱
+
+O **Rental Manager** é um sistema completo de gestão de locações, projetado para lidar com as particularidades de kitnets e moradias estudantis. O diferencial do projeto é a flexibilidade no controle de custos fixos e variáveis, além de uma gestão precisa de quem emite e quem recebe os pagamentos.
+
+* * *
+
+🚀 Engenharia e Regras de Negócio
+
+Diferente de geradores simples, este sistema foi arquitetado para suportar fluxos complexos de cobrança e gestão:
+
+* **Gestão de Entidades Complexas:**
+  
+  * **Cadastro de Estudantes:** Gestão específica para o público universitário/estudantil.
+    
+  * **Gestão de Beneficiários:** Flexibilidade para definir quem consta como emissor no recibo oficial.
+    
+* **Lógica de Cobrança de Excedentes:**
+  
+  * Implementação de algoritmos para cálculo de **taxas extras (água, luz, etc.)** baseados em consumo excedente, integrados automaticamente ao valor final do recibo.
+* **Persistência e Arquitetura:**
+  
+  * **SQLite (sqflite):** Armazenamento relacional para as entidades de Beneficiários, Estudantes e o histórico de Cobranças.
+    
+  * **Padrão IRepository:** Camada de abstração que desacopla a lógica de negócio do banco de dados, facilitando a manutenção e garantindo a inversão de dependência.
+    
+  * **SharedPreferences:** Utilizado para configurações rápidas e persistência de estados de sessão.
+    
+
+* * *
+
+🛠️ Tecnologias Utilizadas
+
+* **Linguagem:** Dart
+  
+* **Framework:** Flutter
+  
+* **Banco de Dados:** SQLite (`sqflite`) para dados relacionais.
+  
+* **Preferências:** `shared_preferences` para configurações de usuário.
+  
+* **Geração de PDF:** Layouts customizados para recibos detalhados.
+  
+* **Arquitetura:** Interface-based Repository Pattern e princípios SOLID.
+  
+
+* * *
+
+📸 Funcionalidades em Destaque
+------------------------------
+
+## Recibos
+
+<img title="" src="./assets/images/Screenshot_20260310_174048.jpg" alt="Home" width="250"><img title="" src="./assets/images/Screenshot_20260310_174045.jpg" alt="Home" width="250"><img title="" src="./assets/images/Screenshot_20260310_174150.jpg" alt="Home" width="250">
+
+## Inclusão de Beneficiários e Estudantes
+
+<img title="" src="./assets/images/Screenshot_20260310_173257.jpg" alt="Home" width="250"><img title="" src="./assets/images/Screenshot_20260310_170829.jpg" alt="Home" width="250">
+
+## Fluxo de Gerenciamento de Cobranças Extras (como Beneficiários e Estudantes)
+
+<img title="" src="./assets/images/Screenshot_20260310_170847.jpg" alt="Home" width="250"><img title="" src="./assets/images/Screenshot_20260310_170838.jpg" alt="Home" width="250"><img title="" src="./assets/images/Screenshot_20260310_174218.jpg" alt="Home" width="250"><img title="" src="./assets/images/Screenshot_20260310_174040.jpg" alt="Home" width="250">
+
+# Configurações
+
+<img src="./assets/images/Screenshot_20260310_170747.jpg" title="" alt="Home" width="250"><img title="" src="./assets/images/Screenshot_20260310_170930.jpg" alt="Home" width="250"><img title="" src="./assets/images/Screenshot_20260310_170936.jpg" alt="Home" width="250"><img title="" src="./assets/images/Screenshot_20260310_170940.jpg" alt="Home" width="250">
+
+* * *
+
+📄 Sobre este Repositório
+
+Este é um repositório de **Showcase**. O código-fonte é mantido de forma privada para proteção da propriedade intelectual. No entanto, sinta-se à vontade para entrar em contato para discutirmos a implementação técnica das regras de negócio ou a arquitetura de persistência utilizada.
