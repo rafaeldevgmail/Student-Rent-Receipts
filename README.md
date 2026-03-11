@@ -58,7 +58,7 @@ Diferente de geradores simples, este sistema foi arquitetado para suportar fluxo
 
 ## Fluxo de Gerenciamento de Cobranças Extras (como Beneficiários e Estudantes)
 
-<img title="" src="./assets/images/Screenshot_20260310_170847.jpg" alt="Home" width="200"><img title="" src="./assets/images/Screenshot_20260310_170838.jpg" alt="Home" width="200"><img title="" src="./assets/images/Screenshot_20260310_174218.jpg" alt="Home" width="200"><img title="" src="./assets/images/Screenshot_20260310_174040.jpg" alt="Home" width="200"><img title="" src="./assets/images/Screenshot_20260311_085306.jpg" alt="Home" width="200">
+<img title="" src="./assets/images/Screenshot_20260310_170847.jpg" alt="Home" width="200"><img title="" src="./assets/images/Screenshot_20260310_170838.jpg" alt="Home" width="200"><img title="" src="./assets/images/Screenshot_20260310_174218.jpg" alt="Home" width="200"><img title="" src="./assets/images/Screenshot_20260310_174040.jpg" alt="Home" width="200"><img title="" src="./assets/images/Screenshot_20260311_091921.jpg" alt="Home" width="200">
 
 # Configurações
 
