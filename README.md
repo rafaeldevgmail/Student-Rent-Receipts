@@ -1,6 +1,9 @@
 Rental Manager (Gestão de Aluguéis e Recibos) 🏠📱
 
 O **Rental Manager** é um sistema completo de gestão de locações, projetado para lidar com as particularidades de kitnets e moradias estudantis. O diferencial do projeto é a flexibilidade no controle de custos fixos e variáveis, além de uma gestão precisa de quem emite e quem recebe os pagamentos.
+<div align="center">
+<img title="" src="./assets/images/Receipt Manager.jpg" alt="Receipt Manager" width="350">
+</div>
 
 * * *
 
@@ -50,7 +53,7 @@ Diferente de geradores simples, este sistema foi arquitetado para suportar fluxo
 
 ## Recibos
 
-<img title="" src="./assets/images/Receipt Manager.jpg" alt="Receipt Manager" width="350"><img title="" src="./assets/images/Screenshot_20260310_174048.jpg" alt="Home" width="200"><img title="" src="./assets/images/Screenshot_20260310_174045.jpg" alt="Home" width="200"><img title="" src="./assets/images/Screenshot_20260310_174150.jpg" alt="Home" width="200">
+<img title="" src="./assets/images/Screenshot_20260310_174048.jpg" alt="Home" width="200"><img title="" src="./assets/images/Screenshot_20260310_174045.jpg" alt="Home" width="200"><img title="" src="./assets/images/Screenshot_20260310_174150.jpg" alt="Home" width="200">
 
 ## Inclusão de Beneficiários e Estudantes
 
