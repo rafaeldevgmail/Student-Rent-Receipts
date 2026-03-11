@@ -50,19 +50,19 @@ Diferente de geradores simples, este sistema foi arquitetado para suportar fluxo
 
 ## Recibos
 
-<img title="" src="./assets/images/Screenshot_20260310_174048.jpg" alt="Home" width="250"><img title="" src="./assets/images/Screenshot_20260310_174045.jpg" alt="Home" width="250"><img title="" src="./assets/images/Screenshot_20260310_174150.jpg" alt="Home" width="250">
+<img title="" src="./assets/images/Screenshot_20260310_174048.jpg" alt="Home" width="200"><img title="" src="./assets/images/Screenshot_20260310_174045.jpg" alt="Home" width="200"><img title="" src="./assets/images/Screenshot_20260310_174150.jpg" alt="Home" width="200">
 
 ## Inclusão de Beneficiários e Estudantes
 
-<img title="" src="./assets/images/Screenshot_20260310_173257.jpg" alt="Home" width="250"><img title="" src="./assets/images/Screenshot_20260310_170829.jpg" alt="Home" width="250">
+<img title="" src="./assets/images/Screenshot_20260310_173257.jpg" alt="Home" width="200"><img title="" src="./assets/images/Screenshot_20260310_170829.jpg" alt="Home" width="200">
 
 ## Fluxo de Gerenciamento de Cobranças Extras (como Beneficiários e Estudantes)
 
-<img title="" src="./assets/images/Screenshot_20260310_170847.jpg" alt="Home" width="250"><img title="" src="./assets/images/Screenshot_20260310_170838.jpg" alt="Home" width="250"><img title="" src="./assets/images/Screenshot_20260310_174218.jpg" alt="Home" width="250"><img title="" src="./assets/images/Screenshot_20260310_174040.jpg" alt="Home" width="250">
+<img title="" src="./assets/images/Screenshot_20260310_170847.jpg" alt="Home" width="200"><img title="" src="./assets/images/Screenshot_20260310_170838.jpg" alt="Home" width="200"><img title="" src="./assets/images/Screenshot_20260310_174218.jpg" alt="Home" width="200"><img title="" src="./assets/images/Screenshot_20260310_174040.jpg" alt="Home" width="200"><img title="" src="./assets/images/Screenshot_20260311_085306.jpg" alt="Home" width="200">
 
 # Configurações
 
-<img src="./assets/images/Screenshot_20260310_170747.jpg" title="" alt="Home" width="250"><img title="" src="./assets/images/Screenshot_20260310_170930.jpg" alt="Home" width="250"><img title="" src="./assets/images/Screenshot_20260310_170936.jpg" alt="Home" width="250"><img title="" src="./assets/images/Screenshot_20260310_170940.jpg" alt="Home" width="250">
+<img src="./assets/images/Screenshot_20260310_170747.jpg" title="" alt="Home" width="200"><img title="" src="./assets/images/Screenshot_20260310_170930.jpg" alt="Home" width="200"><img title="" src="./assets/images/Screenshot_20260310_170936.jpg" alt="Home" width="200"><img title="" src="./assets/images/Screenshot_20260310_170940.jpg" alt="Home" width="200">
 
 * * *
 
