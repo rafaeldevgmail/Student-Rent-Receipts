@@ -1,4 +1,18 @@
-Rental Manager (Gestão de Aluguéis e Recibos) 🏠📱
+# 📄 Rental Manager
+
+> Aplicativo mobile para **gestão de inquilinos e emissão de recibos**, desenvolvido com **Flutter** e funcionamento **100% offline** para facilitar o controle financeiro de locadores.
+
+![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-3.x-0175C2?style=flat-square&logo=dart&logoColor=white)
+![SQLite](https://img.shields.io/badge/Database-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Offline](https://img.shields.io/badge/Mode-Offline%20First-2ecc71?style=flat-square)
+![Mobile](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-444?style=flat-square)
+![Shared Preferences](https://img.shields.io/badge/Preferences-shared__preferences-6c63ff?style=flat-square)
+![PDF](https://img.shields.io/badge/PDF-Generation-e53935?style=flat-square)
+
+---
+
+## 📱 Sobre o Projeto
 
 O **Rental Manager** é um sistema completo de gestão de locações, projetado para lidar com as particularidades de kitnets e moradias estudantis. O diferencial do projeto é a flexibilidade no controle de custos fixos e variáveis, além de uma gestão precisa de quem emite e quem recebe os pagamentos.
 <div align="center">
