@@ -1,4 +1,4 @@
-# 📄 Student Rent Receipts
+# 📱 Student Rent Receipts
 
 > Aplicativo mobile de gerenciamento de locações desenvolvido com **Flutter** para organizar contratos, pagamentos e emissões de recibos de forma simples.
 
@@ -12,7 +12,7 @@
 
 ---
 
-## 📱 Sobre o Projeto
+## 📌 Sobre o Projeto
 
 O **Student Rent Receipts** é uma aplicação criada para facilitar o gerenciamento de locações, projetado para lidar com as particularidades de kitnets e moradias estudantis. O diferencial do projeto é a flexibilidade no controle de custos fixos e variáveis, além de uma gestão precisa de quem emite e quem recebe os pagamentos.
 
