@@ -1,6 +1,6 @@
 # 📄 Rental Manager
 
-> Aplicativo mobile para **gestão de inquilinos e emissão de recibos**, desenvolvido com **Flutter** e funcionamento **100% offline** para facilitar o controle financeiro de locadores.
+> Aplicativo mobile de gerenciamento de locações desenvolvido com **Flutter** para organizar contratos, pagamentos e emissões de recibos de forma simples.
 
 ![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-3.x-0175C2?style=flat-square&logo=dart&logoColor=white)
@@ -14,7 +14,10 @@
 
 ## 📱 Sobre o Projeto
 
-O **Rental Manager** é um sistema completo de gestão de locações, projetado para lidar com as particularidades de kitnets e moradias estudantis. O diferencial do projeto é a flexibilidade no controle de custos fixos e variáveis, além de uma gestão precisa de quem emite e quem recebe os pagamentos.
+O **Rental Manager** é uma aplicação criada para facilitar o gerenciamento de locações, projetado para lidar com as particularidades de kitnets e moradias estudantis. O diferencial do projeto é a flexibilidade no controle de custos fixos e variáveis, além de uma gestão precisa de quem emite e quem recebe os pagamentos.
+
+O projeto foi publicado no GitHub já em sua versão funcional.
+
 <div align="center">
 <img title="" src="./assets/images/Receipt Manager.jpg" alt="Receipt Manager" width="350">
 </div>
@@ -23,9 +26,7 @@ O **Rental Manager** é um sistema completo de gestão de locações, projetado 
 
 🚀 Engenharia e Regras de Negócio
 
-Diferente de geradores simples, este sistema foi arquitetado para suportar fluxos complexos de cobrança e gestão:
-
-* **Gestão de Entidades Complexas:**
+* **Gestão de Entidades:**
   
   * **Cadastro de Estudantes:** Gestão específica para o público universitário/estudantil.
     
