@@ -68,19 +68,19 @@ O projeto foi publicado no GitHub já em sua versão funcional.
 
 ## Recibos
 
-<img title="" src="./assets/images/Screenshot_20260310_174048.jpg" alt="Home" width="200"><img title="" src="./assets/images/Screenshot_20260310_174045.jpg" alt="Home" width="200"><img title="" src="./assets/images/Screenshot_20260310_174150.jpg" alt="Home" width="200">
+<img title="" src="./assets/images/img1.jpeg" width="200"><img title="" src="./assets/images/img2.jpeg" width="200"><img title="" src="./assets/images/img3.jpeg" width="200"><img title="" src="./assets/images/img4.jpeg" width="200">
 
 ## Inclusão de Beneficiários e Estudantes
 
-<img title="" src="./assets/images/Screenshot_20260310_173257.jpg" alt="Home" width="200"><img title="" src="./assets/images/Screenshot_20260310_170829.jpg" alt="Home" width="200">
+<img title="" src="./assets/images/img5.jpeg" width="200"><img title="" src="./assets/images/img6.jpeg" width="200"><img title="" src="./assets/images/img7.jpeg" width="200">
 
 ## Fluxo de Gerenciamento de Cobranças Extras (como Beneficiários e Estudantes)
 
-<img title="" src="./assets/images/Screenshot_20260310_170847.jpg" alt="Home" width="200"><img title="" src="./assets/images/Screenshot_20260310_170838.jpg" alt="Home" width="200"><img title="" src="./assets/images/Screenshot_20260310_174218.jpg" alt="Home" width="200"><img title="" src="./assets/images/Screenshot_20260310_174040.jpg" alt="Home" width="200"><img title="" src="./assets/images/Screenshot_20260311_091921.jpg" alt="Home" width="200">
+<img title="" src="./assets/images/img8.jpeg" width="200"><img title="" src="./assets/images/img9.jpeg" width="200"><img title="" src="./assets/images/img10.jpeg" width="200"><img title="" src="./assets/images/img11.jpeg" width="200"><img title="" src="./assets/images/img12.jpeg" width="200">
 
 # Configurações
 
-<img src="./assets/images/Screenshot_20260310_170747.jpg" title="" alt="Home" width="200"><img title="" src="./assets/images/Screenshot_20260310_170930.jpg" alt="Home" width="200"><img title="" src="./assets/images/Screenshot_20260310_170936.jpg" alt="Home" width="200"><img title="" src="./assets/images/Screenshot_20260310_170940.jpg" alt="Home" width="200">
+<img src="./assets/images/img13.jpeg" title="" width="200"><img title="" src="./assets/images/img14.jpeg" width="200"><img title="" src="./assets/images/img15.jpeg" width="200"><img title="" src="./assets/images/img16.jpeg" width="200">
 
 * * *
 
